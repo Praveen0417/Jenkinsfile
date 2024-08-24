@@ -176,7 +176,7 @@
           <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-assembly-plugin</artifactId>
-            <version>3.3.0</version>
+            <version>3.7.1</version>
             <configuration>
               <skipAssembly>${jfr.packaging.skip.assembly}</skipAssembly>
               <!-- Disabled due to https://github.com/jenkinsci/jenkinsfile-runner/issues/350
